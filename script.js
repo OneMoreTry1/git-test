@@ -1,3 +1,1 @@
-console.log("Hello, World!");
-
-console.log("footer");
+console.log("Hello, footer!");
